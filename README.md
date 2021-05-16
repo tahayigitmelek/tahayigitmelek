@@ -37,6 +37,10 @@
   <a>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
+  <br>
+  <img alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=tahayigitmelek&show_icons=true&theme=radical" />
+  <br>
 </p>
 
 
@@ -45,10 +49,6 @@
 <details align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
-        <br>
-        <img alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=tahayigitmelek&show_icons=true&theme=radical" />
-        <br>
        <img alt="Most Used Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayigitmelek&theme=blue-green" />
         <br>
