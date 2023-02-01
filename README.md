@@ -15,35 +15,7 @@
   <a href= "https://www.linkedin.com/in/tahayigitmelek">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href= "https://play.google.com/store/apps/dev?id=7551799293320630572">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-  </a>
 </p>
-
-
-<p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  <br>
-  <img alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=tahayigitmelek&show_icons=true&theme=radical" />
-  <br>
-</p>
-
-
 
 <!-- Details Section-->
 <details align="center">
