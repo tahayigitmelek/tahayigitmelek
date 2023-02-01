@@ -57,9 +57,7 @@
 <br>
 
 
-🌱 Hello, I am Taha Yiğit. I am actively a student of Eskişehir Osmangazi University, Department of Mathematics and Computer Science. Other than that, I have been interested in software for a long time. I publish various articles about software on my blog site and I also do article translations.
-
-⚡ I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you're looking for a competent, motivated developer, you are on the right profile. You can reach me at yigittahamelek@gmail.com.
+🌱 Hello, I'm Taha Yigit. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer Science. I've been interested in software for a long time
 
 
 ---
