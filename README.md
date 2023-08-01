@@ -37,21 +37,6 @@
 
 🌱 Hello, I'm Taha Yigit. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer Science. I've been interested in software for a long time
 
-
----
-
-<h3 align="center"> Latest Blog Articles </h3>
-
-
-<!-- ARTICLES:START -->
-- [Luhn Algoritması](https://tahayigitmelek.com/2021/05/07/luhn-algoritmasi/)
-- [Yerel, Makine, Assembly, Yönetilmeyen ve Yönetilen Kodlar](https://tahayigitmelek.com/2021/05/07/yerel-makine-assembly-yonetilmeyen-ve-yonetilen-kodlar/)
-- [Derin Öğrenme için Framework ve Araçlar](https://tahayigitmelek.com/2021/04/15/derin-ogrenme-icin-framework-ve-araclar/)
-- [Elvis Operatörü Nedir?](https://tahayigitmelek.com/2021/04/15/elvis-operatoru-nedir/)
-- [Framework Nedir?](https://tahayigitmelek.com/2021/04/15/framework-nedir/)
-- [Doğrusal Arama (Linear Search)](https://tahayigitmelek.com/2021/04/15/dogrusal-arama-linear-search/)
-<!-- ARTICLES:END -->
-
 ---
 
 <!-- Footer -->
