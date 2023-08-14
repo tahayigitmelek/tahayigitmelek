@@ -35,7 +35,7 @@
 <br>
 
 
-🌱 Hello, I'm Taha Yigit. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer Science. I've been interested in software for a long time
+🌱 Hello, I'm Taha Yigit. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer Science.
 
 ---
 
