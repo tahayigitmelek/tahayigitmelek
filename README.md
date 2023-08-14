@@ -1,9 +1,3 @@
-<p align="center">
-  <a align = "center">
-      <img src="https://tahayigimelek.files.wordpress.com/2021/04/cropped-cropped-wedding-photography-white-handwriting-logo-design-2.png"/>
-  </a>
-</p>
-            
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
