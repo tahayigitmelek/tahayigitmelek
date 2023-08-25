@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><Taha Yiğit Melek</b>
+                <b>Taha Yiğit Melek</b>
         </samp>
 </h3>
 
