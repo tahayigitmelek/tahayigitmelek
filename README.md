@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://tahayigitmelek.com/">Taha Yiğit Melek</a></b>
+                <b><Taha Yiğit Melek</b>
         </samp>
 </h3>
 
