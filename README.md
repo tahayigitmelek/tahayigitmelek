@@ -11,15 +11,6 @@
   </a>
 </p>
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
-    <p align="center">
-       <img alt="Most Used Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayigitmelek&theme=blue-green" />
-        <br>
-    </p>
-</details>
 <br>
 
 
