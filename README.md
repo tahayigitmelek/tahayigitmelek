@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=tahayigitmelek&show_icons=true&theme=radical" />
-  <br>
-</p>
-
 <!-- Details Section-->
 <details align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
